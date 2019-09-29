@@ -1,0 +1,64 @@
+h2 {
+	font-weight: bolder;
+	color: #05771f;
+}
+.card-body{
+	background-color: #262626 !important; 
+    color:white;
+}
+.card-text{
+	color: #262626;
+	height: 40px;
+	background-color: white;
+}
+// ::selection { background-color: #C3CFE2; }
+
+// body {
+// 	width: 100%;
+// 	height: 100vh;
+// 	display: flex;
+// 	align-items: center;
+// 	justify-content: center;
+	
+// 	background: linear-gradient(to right, #FDFBFB, #EBEDEE 70%);
+// }
+
+.text {
+color:white;
+}
+
+span{
+    color: green;
+}
+.btn-dark{
+    background-color: #262626 !important;
+}
+ .modal {
+        position: fixed;
+        top: 50px;
+        left: 0;
+        z-index: 1100;
+        display: none;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        outline: 0;
+}
+h3{
+    font-weight: bolder;
+}
+.disabled-link {
+    pointer-events: none;
+    opacity: 0.6;
+}
+
+
+  a{
+      color: #262626;
+      text-decoration: underline;
+
+  }
+  .modal-body { 
+    max-height: 350px; 
+    overflow-y:auto;
+}
